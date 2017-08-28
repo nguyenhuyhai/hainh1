@@ -1,2 +1,0 @@
-# hainh1
-hoc
